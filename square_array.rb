@@ -1,3 +1,5 @@
 def square_array(array)
-  # your code here
+bazinga = []
+array.each do |new|
+  
 end
